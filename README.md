@@ -10,7 +10,7 @@ Materi mengikuti sembilan seri video Java dari channel **Programmer Zaman Now (P
 
 | # | Tahap | Status |
 |---|---|---|
-| 1 | Java Dasar | Sedang dipelajari |
+| 1 | Java Dasar | Selesai |
 | 2 | Java OOP | Belum dimulai |
 | 3 | Java Standard Classes | Belum dimulai |
 | 4 | Java Generic | Belum dimulai |
@@ -27,7 +27,7 @@ Urutan belajar dibuat bertahap karena tiap tahap menjadi fondasi tahap berikutny
 - [x] Hari 1: Hello World, tipe data number, char, boolean, String, variable
 - [x] Hari 2: Tipe data bukan primitif, array, operasi matematika, perbandingan, boolean, expression, statement, dan block
 - [x] Hari 3: If, switch, ternary, for, while, do while, break dan continue
-- [ ] Hari 4: For each, method (parameter, return value, varargs, overloading), recursion, scope, komentar
+- [x] Hari 4: For each, method (parameter, return value, varargs, overloading), recursion, scope, komentar
 
 ## Struktur Folder
 
@@ -38,7 +38,8 @@ belajar-java/
     ├── latihan/
     │   ├── day1.java
     │   ├── day2.java
-    │   └── day3.java
+    │   ├── day3.java
+    │   └── day4.java
     ├── HelloWorld.java
     ├── TipeDataNumber.java
     ├── TipeDataChar.java
